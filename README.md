@@ -12,16 +12,16 @@ haverá mais economia ao abastecer.
 # Prints da aplicação
 
 Página Inicial:
-![Prints][Prints%Gifs/Home.jpg]
+![Prints](Prints&Gifs/Home.jpg)
 
 Alerta de campos não preenchidos ou com valores zerados:
-![Prints][Prints%Gifs/Alert.jpg]
+![Prints](Prints%Gifs/Alert.jpg)
 
 Resposta a favor do Etanol:
-![Prints][Prints%Gifs/ResEta.jpg]
+![Prints](Prints%Gifs/ResEta.jpg)
 
 Resposta a favor da Gasolina:
-![Prints][Prints%Gifs/ResGas.jpg]
+![Prints](Prints%Gifs/ResGas.jpg)
 
 
 
