@@ -1,29 +1,35 @@
 # Calculadora Flex (realizado na faculdade PUC-Minas)
 ## Projeto de calculadora para verificar qual tipo de combustível usar.
-:trophy: O aplicativo calcula com base no preço da Gasolina e Etanol fornecidos pelo usuário qual deles
-haverá mais economia ao abastecer.
+O aplicativo calcula com base no preço da Gasolina e Etanol fornecidos pelo usuário qual deles haverá mais economia ao abastecer.
 
 ## Tecnologias utilizadas
 - React Native
 - React Native Paper
 - Expo/ Expo Go
 - JavaScript
+- VsCode
 
 # Prints da aplicação
 
-Página Inicial:
-![Prints](Prints&Gifs/Home.jpg)
+### Página Inicial: 
 
-Alerta de campos não preenchidos ou com valores zerados:
-![Prints](Prints%Gifs/Alert.jpg)
+![Home](https://github.com/user-attachments/assets/5969fb18-698a-4477-bd0d-a4c49257d812)
 
-Resposta a favor do Etanol:
-![Prints](Prints%Gifs/ResEta.jpg)
+---
+### Alerta de campos não preenchidos ou com valores zerados: 
 
-Resposta a favor da Gasolina:
-![Prints](Prints%Gifs/ResGas.jpg)
+![Alert](https://github.com/user-attachments/assets/548de12d-cf00-49c2-a6e4-e2b3ed4125b4)
 
+---
+### Resposta a favor do Etanol: 
 
+![ResEta](https://github.com/user-attachments/assets/9776575d-e7fe-467e-a5da-bba68e6d2e4b)
 
-Status do Projeto: Concluido :heavy_check_mark:
+---
+### Resposta a favor da Gasolina:
+
+![ResGas](https://github.com/user-attachments/assets/6cd4edba-a132-4e29-85a9-69ecc6dea193)
+
+---
+# Status do Projeto: Concluido :heavy_check_mark:
 
