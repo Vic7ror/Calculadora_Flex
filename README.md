@@ -2,12 +2,13 @@
 ## Projeto de calculadora para verificar qual tipo de combustível usar.
 O aplicativo calcula com base no preço da Gasolina e Etanol fornecidos pelo usuário qual deles haverá mais economia ao abastecer.
 
-## Tecnologias utilizadas
-- React Native
-- React Native Paper
-- Expo/ Expo Go
-- JavaScript
-- VsCode
+-----------------------------------------
+
+- Linguagens: Javascript
+- Bibliotecas utilizadas: React Native ,React Native Paper
+- Aplicativos utilizados: Expo/Expo Go, VsCode
+
+-----------------------------------------
 
 # Prints da aplicação
 
