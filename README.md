@@ -5,7 +5,7 @@ O aplicativo calcula com base no preço da Gasolina e Etanol fornecidos pelo usu
 -----------------------------------------
 
 - Linguagens: Javascript
-- Bibliotecas utilizadas: React Native ,React Native Paper
+- Bibliotecas utilizadas: React Native, React Native Paper
 - Aplicativos utilizados: Expo/Expo Go, VsCode
 
 -----------------------------------------
